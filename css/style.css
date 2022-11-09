@@ -1,0 +1,13 @@
+.mini-box{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 2rem;
+}
+.mini-boxs{
+    flex-basis: 9%;
+    aspect-ratio: 1/1;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
